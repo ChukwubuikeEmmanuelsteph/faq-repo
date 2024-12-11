@@ -100,7 +100,12 @@ body {
 /*  mobile design  */
 @media (max-width: 500px){
     body{
-        background-image: url(/images/background-pattern-mobile.svg);
+        background-image: url(images/background-pattern-mobile.svg);
+        padding: 0.5rem;
     }
+   .faq-section{
+    /* padding: 1rem; */
+    width: 20rem;
+   }
     
 }
